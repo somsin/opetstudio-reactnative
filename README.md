@@ -18,4 +18,7 @@ Skeleton or Boilerplate project for Mobile native Application, website or web ba
 
 ### Start Electron (DesktopApp)
 
+  npm run start-web
+
+  //on other terminal
   npm run electron
